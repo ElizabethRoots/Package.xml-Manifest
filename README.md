@@ -7,8 +7,8 @@ Want to learn more about how to write a Package.xml Manifest? Check out Salesfor
 ## Getting the Tools
 Geting set up. 
 1) Make sure you have the Salesforce CLI installed. If you don't have it installed you can download and install it from [here](https://developer.salesforce.com/tools/sfdxcli). If you do have it installed, then check to make sure you are on the latest by running `sfdx update` command. 
-2) Install VS Code
-3) Install Salesforce Extension in VS Code  
+2) Install [VS Code](https://code.visualstudio.com/download). 
+3) Install [Salesforce Extension in VS Code](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode).
 
 ## Whats in this project?
 There are many components within this project, but ultimately, the `Package.xml` file is likely what you came here for. In this project, I have included an sfdx project structure, the package.xml sample manifest, and a list of resources below for you to learn more.
