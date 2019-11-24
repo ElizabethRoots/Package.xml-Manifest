@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types> 
+        <members>*</members>
+        <name>ApexClass</name> <!-- Used for Apex Classes -->
+    </types>
+    <types> 
+        <members>*</members>
+        <name>AppMenu</name> <!-- Represents the app menu or the Salesforce mobile navigation menu -->
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexPage</name> <!-- Represents a Visualforce page -->
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexTrigger</name> <!-- Represents an Apex trigger -->
+    </types>
+    <types>
+        <members>*</members>
+        <name>CustomObject</name> <!-- Represents an object that stores data -->
+    </types> <!-- Within CustomObject, you can have custom metadata types such as field sets, index, list views, record type, search layouts, etc.-->
+    <types>
+        <members>*</members>
+        <name>CustomTab</name> <!-- Represents a tab (custom or standard) mostly used in navigation menus -->
+    </types>
+    <types>
+        <members>*</members>
+        <name>FlexiPage</name> <!-- Represents a Lightning page -->
+    </types>
+    <types>
+        <members>*</members>
+        <name>Layout</name> <!-- Represents a page layout, usually associated to an object -->
+    </types>
+    <types>
+        <members>*</members>
+        <name>PermissionSet</name> <!-- Represents a list of permissions enabled in a permission set -->
+    </types>
+    <types>
+        <members>*</members>
+        <name>Report</name> <!-- Represents a report -->
+    </types>
+    <types>
+        <members>*</members>
+        <name>StaticResource</name> <!-- Represents a static resource file, often a code library in a ZIP file -->
+    </types>
+    <version>46.0</version>
+</Package>
