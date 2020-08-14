@@ -17,7 +17,7 @@ There are many components within this project, but ultimately, the `Package.xml`
 * SFDX Project with sample metadata (objects, fields, classes, perm sets)
 * Package.xml file related to the objects in the sfdx project
 * Sample package.xml file
-* Helpful resources
+* Helpful Resources
 
 ## Wait, can't the CLI create a package.xml for you?
 With specific commands, the Salesforce CLI absolutely can create a package.xml for you! The challenge though is not all metadata types are declaratively available through the UI (such as Profiles). So when the CLI creates the package.xml manifest off of a package, the metadata is limited to just those metadata components within that package. 
